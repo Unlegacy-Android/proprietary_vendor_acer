@@ -11,4 +11,6 @@ PRODUCT_COPY_FILES += \
     $(VENDOR_FOLDER)/proprietary/vendor/lib/libakmd.so:system/vendor/lib/libakmd.so \
     $(VENDOR_FOLDER)/proprietary/vendor/lib/libami.so:system/vendor/lib/libami.so \
     $(VENDOR_FOLDER)/proprietary/vendor/lib/libami_sensor_mw.so:system/vendor/lib/libami_sensor_mw.so \
-    $(VENDOR_FOLDER)/proprietary/vendor/lib/libhuawei-ril.so:system/vendor/lib/libhuawei-ril.so
+    $(VENDOR_FOLDER)/proprietary/vendor/lib/libhuawei-ril.so:system/vendor/lib/libhuawei-ril.so \
+    $(VENDOR_FOLDER)/proprietary/vendor/lib/libnvodm_imager.so:system/vendor/lib/libnvodm_imager.so \
+    $(VENDOR_FOLDER)/proprietary/vendor/lib/libnvodm_query.so:system/vendor/lib/libnvodm_query.so
