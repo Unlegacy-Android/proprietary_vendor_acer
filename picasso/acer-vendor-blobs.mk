@@ -7,7 +7,6 @@ PRODUCT_COPY_FILES += \
     $(VENDOR_FOLDER)/proprietary/vendor/firmware/UartSet3Mbps.bin:system/vendor/firmware/UartSet3Mbps.bin \
     $(VENDOR_FOLDER)/proprietary/vendor/lib/hw/lights.tegra3.so:system/vendor/lib/hw/lights.tegra3.so \
     $(VENDOR_FOLDER)/proprietary/vendor/lib/hw/sensors.tegra3.so:system/vendor/lib/hw/sensors.tegra3.so \
-    $(VENDOR_FOLDER)/proprietary/vendor/lib/liba1026.so:system/vendor/lib/liba1026.so \
     $(VENDOR_FOLDER)/proprietary/vendor/lib/libakmd.so:system/vendor/lib/libakmd.so \
     $(VENDOR_FOLDER)/proprietary/vendor/lib/libami.so:system/vendor/lib/libami.so \
     $(VENDOR_FOLDER)/proprietary/vendor/lib/libami_sensor_mw.so:system/vendor/lib/libami_sensor_mw.so \
